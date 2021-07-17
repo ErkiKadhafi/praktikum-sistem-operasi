@@ -30,4 +30,4 @@ Pada praktikum ini, saya mengerjakan no 1. Soal no 1 pada dasarnya adalah membua
 Pada praktikum final ini, diberikan sebuah tugas untuk membuat DBMS sederhana menggunakan sistem client server. Program akan memerintahkan client untuk melakukan login dan register untuk dapat menggunakan program ini. Pengguna dapat melakukan syntax SQL untuk melakukan CRUD data tabel yang ada di database. Praktikum ini dikerjakan dengan bahasa C.
 
 **Link repository** : <br>
-[Praktikum 4 repository](https://github.com/ahdan86/soal-shift-sisop-modul-4-A01-2021)
+[Praktikum FInal repository](https://github.com/ahdan86/fp-sisop-A01-2021)
